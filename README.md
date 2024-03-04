@@ -1,4 +1,4 @@
-Hi ![](:sparkles:)My name is Rebecca
+Hi ![](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Fairy%20Light%20Skin%20Tone.gif)My name is Rebecca
 ===============================================================================================================================
 
 Junior Full Stack Developer
