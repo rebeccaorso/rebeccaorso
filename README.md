@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rebecca
+Hi ![](<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Fairy%20Light%20Skin%20Tone.png" alt="Woman Fairy Light Skin Tone" width="25" height="25" />)My name is Rebecca
 ===============================================================================================================================
 
 Junior Full Stack Developer
