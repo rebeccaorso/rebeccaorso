@@ -1,4 +1,4 @@
-Ciao!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Fairy%20Light%20Skin%20Tone.png" alt="Woman Fairy Light Skin Tone" width="75" height="75" />Io sono Rebecca
+Ciao!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Fairy%20Light%20Skin%20Tone.png" alt="Woman Fairy Light Skin Tone" width="75" height="75" />Io sono <a href="https://rebeccaorso.github.io/">Rebecca</a>
 ===============================================================================================================================
 
 Junior Full Stack Developer
