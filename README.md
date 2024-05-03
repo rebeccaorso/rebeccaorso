@@ -1,14 +1,9 @@
-Ciao!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Fairy%20Light%20Skin%20Tone.png" alt="Woman Fairy Light Skin Tone" width="75" height="75" />Io sono <a href="https://rebeccaorso.github.io/">Rebecca</a>
+Ciao!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Fairy%20Light%20Skin%20Tone.png" alt="Woman Fairy Light Skin Tone" width="75" height="75" />Io sono Rebecca
 ===============================================================================================================================
 
 Junior Full Stack Developer
 ---------------------------
-
-Sono una Junior Full Stack Developer con un vivo interesse per l’innovazione tecnologica, focalizzata principalmente sul backend. Ho acquisito una solida base formativa attraverso un corso specialistico e un tirocinio nel settore. Sono determinata a consolidare il mio percorso nel campo della programmazione.
-
-* 🌍  Vivo a Torino
-* 🧠 In questo momento sto studiando MongoDB, Hibernate, Spring Boot
-* ⚡ Three relational databases walk into a NoSql bar. They left after 5 mins.... They couldn't find a table!
+ ⚡ Three relational databases walk into a NoSql bar. They left after 5 mins.... They couldn't find a table!
 
 ### Skills
 
